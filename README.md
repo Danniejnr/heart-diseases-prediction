@@ -13,3 +13,9 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Built correlation matrix to identify key features
 - Key features identified: thal, ca, oldpeak
 - Observed negative relationship with thalach
+
+### Day 3: First ML Model
+- Built first Logistic Regression model.
+- Applied feature selection to pick key variables.
+- Performed evaluation to check accuracy and other metrics.
+- Learned how features impact model performance.
