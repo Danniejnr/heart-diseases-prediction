@@ -27,3 +27,11 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Observed lower performance compared to Logistic Regression (~90%).
 - Identified overfitting as a likely cause.
 - Learned that increased model complexity does not guarantee better results.
+
+  ## Day 5
+
+- Tuned Decision Tree model to reduce overfitting (max_depth=3).
+- Improved accuracy from 75% to ~80%.
+- Observed better generalization after limiting model complexity.
+- Compared results with Logistic Regression (90%).
+- Concluded Logistic Regression remains the best-performing model so far.
