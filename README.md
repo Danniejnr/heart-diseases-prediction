@@ -19,3 +19,11 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Applied feature selection to pick key variables.
 - Performed evaluation to check accuracy and other metrics.
 - Learned how features impact model performance.
+
+## Day 4
+- Implemented a Decision Tree model for comparison.
+- Evaluated model performance against Logistic Regression.
+- Achieved ~75% accuracy with Decision Tree.
+- Observed lower performance compared to Logistic Regression (~90%).
+- Identified overfitting as a likely cause.
+- Learned that increased model complexity does not guarantee better results.
