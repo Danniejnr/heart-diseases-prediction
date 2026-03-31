@@ -35,3 +35,9 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Observed better generalization after limiting model complexity.
 - Compared results with Logistic Regression (90%).
 - Concluded Logistic Regression remains the best-performing model so far.
+
+## Day 6
+
+- Implemented Random Forest model.
+- Compared performance with Logistic Regression and Decision Tree.
+- Observed improved stability compared to a single Decision Tree.
