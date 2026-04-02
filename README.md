@@ -48,3 +48,11 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Achieved AUC score of 0.96.
 - Observed only 3 false negatives.
 - Learned importance of evaluating beyond accuracy.
+
+## Day 8
+
+- Extracted feature importance using Random Forest.
+- Top features: thalach, ca, oldpeak.
+- Observed that model prioritizes cardiovascular stress indicators and vessel blockage.
+- Findings align with known clinical risk factors for heart disease.
+- Improved interpretability and trust in model predictions.
