@@ -56,3 +56,20 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Observed that model prioritizes cardiovascular stress indicators and vessel blockage.
 - Findings align with known clinical risk factors for heart disease.
 - Improved interpretability and trust in model predictions.
+
+## 9. Cross-Validation
+
+- Applied 5-fold cross-validation to Logistic Regression model
+- Observed performance variation across folds (78% – 91%)
+- Average accuracy: ~84%
+- Identified that initial single-split accuracy (~90%) was optimistic
+- Concluded that the model is moderately stable
+- Improved understanding of model generalization and reliability
+
+## 10. Hyperparameter Tuning
+
+- Performed hyperparameter tuning using GridSearchCV
+- Optimized Logistic Regression regularization parameter
+- Best parameter: C = 0.1
+- Improved model performance and consistency
+- Strengthened model reliability through systematic tuning
