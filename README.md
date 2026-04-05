@@ -73,3 +73,13 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Best parameter: C = 0.1
 - Improved model performance and consistency
 - Strengthened model reliability through systematic tuning
+
+## 11. Precision, Recall & F1 Score
+
+- Evaluated model performance using classification report
+- Precision (class 1): 0.88
+- Recall (class 1): 0.88
+- F1-score (class 1): 0.88
+- Model correctly identifies 88% of heart disease cases
+- Demonstrates a balanced trade-off between precision and recall
+- Prioritized recall to reduce false negatives in medical predictions
