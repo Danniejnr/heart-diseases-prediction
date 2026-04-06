@@ -83,3 +83,12 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Model correctly identifies 88% of heart disease cases
 - Demonstrates a balanced trade-off between precision and recall
 - Prioritized recall to reduce false negatives in medical predictions
+
+## 12. Threshold Tuning
+
+- Adjusted classification threshold from 0.5 to 0.3
+- Increased recall for heart disease class from 0.88 to 0.92
+- Model now correctly identifies 92% of positive cases
+- Observed trade-off: precision decreased from 0.88 to 0.76
+- Reduced risk of false negatives at the cost of more false positives
+- Demonstrated control over model decision-making based on real-world priorities
