@@ -92,3 +92,13 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Observed trade-off: precision decreased from 0.88 to 0.76
 - Reduced risk of false negatives at the cost of more false positives
 - Demonstrated control over model decision-making based on real-world priorities
+
+## 13. Cross-Validation
+
+- Applied 5-fold cross-validation to evaluate model reliability
+- Cross-validation scores: 0.88, 0.91, 0.79, 0.81, 0.77
+- Average accuracy: 0.83
+- Observed variation across different data splits
+- Model shows moderate stability and generalization ability
+- Provided a more realistic performance estimate than a single test split
+
