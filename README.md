@@ -102,3 +102,15 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Model shows moderate stability and generalization ability
 - Provided a more realistic performance estimate than a single test split
 
+## 14. Model Comparison & Selection
+
+- Compared Logistic Regression, Decision Tree, and Random Forest models
+- Logistic Regression achieved the highest accuracy (0.90)
+- Recall for class 1:
+  - Logistic Regression: 0.88
+  - Decision Tree: 0.83
+  - Random Forest: 0.83
+- Logistic Regression outperformed other models in both accuracy and recall
+- Selected Logistic Regression as the final model
+- Choice was based on performance and importance of recall in healthcare
+- Logistic Regression allows threshold tuning to balance recall and precision based on real-world needs
