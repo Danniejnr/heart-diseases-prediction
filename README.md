@@ -112,5 +112,18 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
   - Random Forest: 0.83
 - Logistic Regression outperformed other models in both accuracy and recall
 - Selected Logistic Regression as the final model
+
+## 15. Model Interpretation
+
+- Analyzed Logistic Regression coefficients to understand feature importance
+- Top positive predictors:
+  - ca (number of vessels) – strongest influence
+  - exang (exercise-induced angina)
+  - oldpeak (ST depression)
+- Negative predictor:
+  - thalach (maximum heart rate)
+- Positive coefficients increase likelihood of heart disease
+- Negative coefficients reduce likelihood
+- Provided interpretability for model decisions in a healthcare context
 - Choice was based on performance and importance of recall in healthcare
 - Logistic Regression allows threshold tuning to balance recall and precision based on real-world needs
