@@ -127,3 +127,11 @@ Predicting heart disease using ML models with UCI dataset — from data cleaning
 - Provided interpretability for model decisions in a healthcare context
 - Choice was based on performance and importance of recall in healthcare
 - Logistic Regression allows threshold tuning to balance recall and precision based on real-world needs
+
+## 16. ROC Curve & AUC
+
+- Plotted ROC curve to evaluate model performance across all thresholds
+- Achieved AUC score of 0.96
+- Curve shows strong separation between classes
+- Demonstrates model’s ability to distinguish between patients with and without heart disease
+- ROC analysis complements accuracy, recall, and precision metrics
